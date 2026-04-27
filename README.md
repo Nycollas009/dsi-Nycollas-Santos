@@ -28,7 +28,7 @@ O Java funciona compilando o código-fonte `.java` em um formato médio chamado 
 - Para executar código Java no terminal do VS Code quando o botão "Run" não funcionar, devemos usar os comandos  `javac` (compilar) e `java` (executar) diretamente no terminal . Temos que certificar de estarmos na pasta correta do arquivo e que o JDK esteja instalado e configurado nas variáveis de ambiente.
 
 
-## Anotações aula 4
+## Anotações aula04
 
 == -> igual 
 === -> estritamente igual
@@ -39,3 +39,6 @@ O Java funciona compilando o código-fonte `.java` em um formato médio chamado 
 0 || 1 -> 1 bit
 8 bits -> 1 Byte
 
+
+## Anotações aula05
+Java Casting é o processo de converter um tipo de dado em outro (primitivo ou objeto). Ele permite tratar uma variável como um tipo diferente, sendo fundamental para manipular dados com herança ou alterar precisão numérica. Divide-se em implícito (automático para tipos maiores, ou widening) e explícito (manual para tipos menores, ou narrowing, podendo perder dados).
