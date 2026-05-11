@@ -51,3 +51,5 @@ Java Casting é o processo de converter um tipo de dado em outro (primitivo ou o
 =! diferente de a =! A -> False
 
 ==! -> diferente  a ==! A -> True
+
+# Aula07
