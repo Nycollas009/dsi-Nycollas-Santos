@@ -43,7 +43,7 @@ O Java funciona compilando o código-fonte `.java` em um formato médio chamado 
 ## Anotações aula05
 Java Casting é o processo de converter um tipo de dado em outro (primitivo ou objeto). Ele permite tratar uma variável como um tipo diferente, sendo fundamental para manipular dados com herança ou alterar precisão numérica. Divide-se em implícito (automático para tipos maiores, ou widening) e explícito (manual para tipos menores, ou narrowing, podendo perder dados).
 
-# Anotações aula06
+## Anotações aula06
 == -> igual a  a == A -> True
 
 === -> igual a  a === A -> False
@@ -52,4 +52,4 @@ Java Casting é o processo de converter um tipo de dado em outro (primitivo ou o
 
 ==! -> diferente  a ==! A -> True
 
-# Aula07
+## Aula07
